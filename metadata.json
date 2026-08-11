@@ -1,0 +1,6 @@
+{
+  "name": "MuscleWiki",
+  "description": "Interactive body muscle map, exercise guide directory, workout logger, and fitness calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
